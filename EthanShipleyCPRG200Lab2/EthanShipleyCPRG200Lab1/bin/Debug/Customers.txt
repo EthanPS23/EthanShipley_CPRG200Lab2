@@ -1,0 +1,6 @@
+1,asd asd,R,12.396
+1,asd asd,C,60.00
+1,asd asd,I,116.00
+1,asd asd,I,116.00
+1,asd asd,C,60.00
+1,asd asd,C,60.00

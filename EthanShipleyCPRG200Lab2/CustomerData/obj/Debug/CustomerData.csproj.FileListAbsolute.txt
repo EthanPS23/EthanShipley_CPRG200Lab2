@@ -1,0 +1,12 @@
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\538003\Documents\GitHub\EthanShipley_CPRG200Lab2\EthanShipleyCPRG200Lab1\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\538003\Documents\GitHub\EthanShipley_CPRG200Lab2\EthanShipleyCPRG200Lab1\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\538003\Documents\GitHub\EthanShipley_CPRG200Lab2\EthanShipleyCPRG200Lab1\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\538003\Documents\GitHub\EthanShipley_CPRG200Lab2\EthanShipleyCPRG200Lab1\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\538003\Documents\GitHub\EthanShipley_CPRG200Lab2\EthanShipleyCPRG200Lab1\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\538003\Documents\GitHub\EthanShipley_CPRG200Lab2\EthanShipleyCPRG200Lab1\CustomerData\obj\Debug\CustomerData.pdb

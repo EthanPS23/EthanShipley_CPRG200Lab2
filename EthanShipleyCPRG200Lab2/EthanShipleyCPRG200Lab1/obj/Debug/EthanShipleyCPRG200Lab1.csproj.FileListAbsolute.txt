@@ -1,0 +1,13 @@
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\bin\Debug\EthanShipleyCPRG200Lab1.exe.config
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\bin\Debug\EthanShipleyCPRG200Lab1.exe
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\bin\Debug\EthanShipleyCPRG200Lab1.pdb
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\obj\Debug\EthanShipleyCPRG200Lab1.csprojAssemblyReference.cache
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\obj\Debug\EthanShipleyCPRG200Lab1.Form1.resources
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\obj\Debug\EthanShipleyCPRG200Lab1.Properties.Resources.resources
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\obj\Debug\EthanShipleyCPRG200Lab1.csproj.GenerateResource.cache
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\obj\Debug\EthanShipleyCPRG200Lab1.csproj.CoreCompileInputs.cache
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\obj\Debug\EthanShipleyCPRG200Lab1.exe
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\obj\Debug\EthanShipleyCPRG200Lab1.pdb
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\bin\Debug\CustomerData.dll
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\bin\Debug\CustomerData.pdb
+C:\Users\538003\source\repos\EthanShipleyCPRG200Lab1\EthanShipleyCPRG200Lab1\obj\Debug\EthanShipleyCPRG200Lab1.csproj.CopyComplete
